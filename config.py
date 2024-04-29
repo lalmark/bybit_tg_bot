@@ -1,4 +1,3 @@
-api_k = "aRGsyvY0n6fPBJcWNv"
-api_sec = '4oLjDHT1cCWqpPqokKD5HXNpXPUQsg4eAze4'
-#TOKEN = "7173033087:AAGAFNqGA2dqbZ2dcYnrQ07DbwX3HRg3fPg"
-TOKEN="6755361874:AAHgPuDYqzhNay3UJiAqd_7BrZ3MhObSwro"
+api_k="test"
+api_sec="test"
+TOKEN="test"
