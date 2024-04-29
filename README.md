@@ -1,4 +1,26 @@
-Test telegram bot using the aiogram asynchronous library
+# Поиск Рецептов
 
-BOt_Trade.py - primitive-test algorithm for searching RSI and constructing Bollinger lines
+Это веб-приложение позволяет пользователям искать рецепты по ингредиентам. Пользователи могут добавлять свои рецепты, просматривать существующие рецепты и оставлять комментарии.
+
+## Функции
+
+- **Поиск рецептов**: Найдите рецепт по названию или ингредиентам.
+- **Добавление рецептов**: Зарегистрированные пользователи могут добавлять свои рецепты.
+- **Комментирование**: Пользователи могут комментировать рецепты.
+
+## Технологии
+
+- **Фронтенд**: React.js
+- **Бэкенд**: FastAPI, SQLAlchemy
+- **База данных**: PostgreSQL
+
+## Установка
+
+Для начала работы клонируйте репозиторий и установите зависимости.
+
+```bash
+git clone https://github.com/yourusername/recipe-search-app.git
+cd recipe-search-app
+pip install -r requirements.txt
+
             
