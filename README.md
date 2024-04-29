@@ -9,12 +9,10 @@ Telegram bot for tracking the rise and fall of RSI within bollinger lines
 - talib
 - aiogram
 
-
-Для начала работы клонируйте репозиторий и установите зависимости.
+To get started, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/yourusername/recipe-search-app.git
-cd recipe-search-app
+git clone https://github.com/lalmark/bybit_tg_bot.git
 pip install -r requirements.txt
 
             
